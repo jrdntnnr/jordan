@@ -1,4 +1,4 @@
-<model-viewer src="crawl.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0.8" exposure="1" environment-image="aircraft_workshop_01_1k.hdr" autoplay min-camera-orbit="auto 60deg 34.09m" max-camera-orbit="auto 60deg auto" min-field-of-view="17.88deg">
+<model-viewer src="crawl.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" autoplay camera-orbit="73.02deg 65.55deg 39.18m" field-of-view="21.21deg" min-camera-orbit="-180deg 68deg 39.18m" max-camera-orbit="180deg 68deg auto" min-field-of-view="21.21deg">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
